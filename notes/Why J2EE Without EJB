@@ -1,0 +1,26 @@
+
+# newer technologies
+    > Inversion of Control
+    > AOP
+
+# Without EJB
+    > EJB is heavy and in many cases it is a problem in itself
+
+    J2EE(Java2 Platform Enterprise Edition) is more than EJB.Using J2EE without EJB, we don't have to reinvent the wheel.
+    We don't need to reimplement J2EE services, just consider alternative ways of tapping into them.
+
+# Themes
+    The central themes:
+    > The primacy of business requirements
+    > Simplicity
+    > Productivity
+    > The fundamental importance of object orientation
+
+# Pareto Principle
+    a small number of cause(10%-20%) are responsible for most(80%-90%) of the effect.We just emphasize the common
+    problems.
+
+    EJB试图解决所有复杂问题，从而把自己搞得很复杂。在实际的工作中，80%-90%都是简单而Happy的coding工作，但就是由于EJB的复杂而导致解决
+    简单问题的时候也要按照复杂问题的套路：效率太低了。
+
+    连喜欢装B的人都不会用EJB。

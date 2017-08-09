@@ -1,0 +1,18 @@
+# The Cost of Complexity
+    DO THE SIMPLEST THING THAT CAN POSSIBLE WORK.
+
+# Summary
+    > Don't use a distributed architecture without good reason.
+    > Don't use EJB without good reason.
+    > Don't develop complex infrastructure.
+    总之，越装逼死的越快
+
+    > Don't speculate on tomorrow's problem today.
+    明天的产品什么样，鬼都不知道；做好当下的产品最实实在在。
+
+    > Do work to understand your business requirements: These should dictate the architecture
+    今天的业务是实实在在的事，深刻理解。技术永远只是支持业务，技术的架构源于业务架构。
+
+    > Do seek evidence, in the form of performance and other metrics,before committing to complex architecture."Ask the
+      computer" before committing to complexity such as that of distributed architecture.
+    随着业务的扩张，技术也需要升级换代；但有个前提：当前技术要用到极致。
